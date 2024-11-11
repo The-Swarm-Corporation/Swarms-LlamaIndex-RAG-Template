@@ -79,6 +79,41 @@ print(
 )
 ```
 
+### Custom Agent with RAG
+- You can create your own agent with RAG by using the `Agent` class.
+- The `system_prompt` argument is the prompt that the agent will use to summarize the data.
+- The `llm` argument is the LLM model that the agent will use to summarize the data.
+- The `max_loops` argument is the number of loops the agent will run.
+- The `long_term_memory` argument is the LlamaIndexDB instance that the agent will use to query the vector database. It can use any RAG system you want it just needs to be a class with a `query` method that intakes a `query` string and returns a `response` string.
+
+```python
+# Initialize the healthcare summarization agent
+healthcare_summarizer = Agent(
+    agent_name="Healthcare-Data-Summarizer",
+    system_prompt=HEALTHCARE_SUMMARY_PROMPT,
+    llm=model,
+    max_loops=2,
+    autosave=True,
+    dashboard=False,
+    verbose=True,
+    dynamic_temperature_enabled=False,
+    saved_state_path="healthcare_summarizer.json",
+    user_name="Human:",
+    retry_attempts=1,
+    context_length=250000,
+    return_step_meta=True,
+    output_type="json",
+    streaming_on=False,
+    long_term_memory=database,
+    auto_generate_prompt=False,
+    # output_file="healthcare_report.md",
+    # state_save_file_type="json",
+    rag_every_loop=True,
+    interactive=True,
+)
+
+
+```
 
 
 
