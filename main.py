@@ -4,8 +4,13 @@ from llamaindex_rag.agent import healthcare_summarizer
 print(
     healthcare_summarizer.run(
         """
-   Is the mental health condition for Courtney Johnson getting better. Give me a report
-   """,
+        What is the medical history of patient 1? Create a report with the following format:
+        - Chief Complaint
+        - Vitals
+        - Assessment
+        - Medications
+        - Plan
+        """,
         all_cores=True,
     )
 )

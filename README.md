@@ -54,6 +54,33 @@ python -m llamaindex_rag.fake_data_generator
 python main.py
 ```
 
+# Example Usage
+- The `healthcare_summarizer` agent is a pre-built agent that summarizes medical data.
+- You can customize the prompt to fit your needs.
+- The `all_cores=True` argument is optional, it allows the agent to use all available cores on your machine for faster processing.
+- The agent will first query the LlamaIndexDB for relevant documents, then use the LLM to summarize the data.
+
+```python
+from llamaindex_rag.agent import healthcare_summarizer
+
+# Example usage
+print(
+    healthcare_summarizer.run(
+        """
+        What is the medical history of patient 1? Create a report with the following format:
+        - Chief Complaint
+        - Vitals
+        - Assessment
+        - Medications
+        - Plan
+        """,
+        all_cores=True,
+    )
+)
+```
+
+
+
 
 ## Memory Example
 - LlamaIndexDB is a class that allows you to query a vector database of documents.
