@@ -18,45 +18,6 @@ A production-ready template for building RAG (Retrieval-Augmented Generation) ap
 - 🛠️ Easy-to-customize architecture
 
 
-## 🛠 Built With
-
-- [Swarms Framework](https://github.com/kyegomez/swarms)
-- Python 3.10+
-- GROQ API Key or you can change it to use any model from [Swarm Models](https://github.com/The-Swarm-Corporation/swarm-models)
-
-## 📬 Contact
-
-Questions? Reach out:
-- Twitter: [@kyegomez](https://twitter.com/kyegomez)
-- Email: kye@swarms.world
-
----
-
-## Want Real-Time Assistance?
-
-[Book a call with here for real-time assistance:](https://cal.com/swarms/swarms-onboarding-session)
-
----
-
-⭐ Star us on GitHub if this project helped you!
-
-Built with ♥ using [Swarms Framework](https://github.com/kyegomez/swarms)
-
-
-
-
-
-
-
-
-
-
-I'll help you create a professional README.md for the Swarms-LlamaIndex-RAG template repository. Here's the suggested update:
-
-```markdown:README.md
-# 🚀 Swarms LlamaIndex RAG Template
-
-[![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/agora-999382051935506503) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kye-g-38759a207/) [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyegomezb)
 
 ## 🚀 Quick Start
 
@@ -127,3 +88,34 @@ python main.py
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+
+## 🛠 Built With
+
+- [Swarms Framework](https://github.com/kyegomez/swarms)
+- Python 3.10+
+- GROQ API Key or you can change it to use any model from [Swarm Models](https://github.com/The-Swarm-Corporation/swarm-models)
+
+## 📬 Contact
+
+Questions? Reach out:
+- Twitter: [@kyegomez](https://twitter.com/kyegomez)
+- Email: kye@swarms.world
+
+---
+
+## Want Real-Time Assistance?
+
+[Book a call with here for real-time assistance:](https://cal.com/swarms/swarms-onboarding-session)
+
+---
+
+⭐ Star us on GitHub if this project helped you!
+
+Built with ♥ using [Swarms Framework](https://github.com/kyegomez/swarms)
+
+
+
+
+
