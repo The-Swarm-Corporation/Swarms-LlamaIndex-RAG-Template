@@ -1,4 +1,4 @@
-from llama_index_rag.memory import LlamaIndexDB
+from llamaindex_rag.memory import LlamaIndexDB
 
 # Example usage
 llama_index_db = LlamaIndexDB(
@@ -6,11 +6,11 @@ llama_index_db = LlamaIndexDB(
     filename_as_id=True,
     recursive=True,
     required_exts=[".txt", ".pdf", ".docx"],
-    similarity_top_k=3
+    similarity_top_k=10
 )
-response = llama_index_db.query(
+
+llama_index_db.query(
     "What is the medical history of patient 1?",
     streaming=True,
     response_mode="compact"
 )
-print(response)

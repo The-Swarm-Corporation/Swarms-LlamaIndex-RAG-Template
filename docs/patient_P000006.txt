@@ -1,0 +1,67 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000006
+Name: Alyssa Cummings
+DOB: 1933-11-25
+Gender: Female
+
+Contact Information:
+Phone: 639.652.1744
+Email: owelch@example.org
+Address: 3908 Schroeder Circle
+Francishaven, FL 38789
+
+Insurance: Smith Ltd
+Allergies: None
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Process play court since.
+
+Vitals:
+  Blood Pressure: 127/89
+  Heart Rate: 96 bpm
+  Temperature: 97.8°F
+  Respiratory Rate: 15 breaths/min
+  Weight: 198 lbs
+  Height: 60 inches
+
+Assessment: Arthritis
+Medications: Sertraline 50mg, Metoprolol 25mg, Metformin 500mg
+Plan: Wonder clearly population father. Within themselves law successful usually tax.
+--------------------------------------------------
+
+Visit Date: 2024-10-03
+Chief Complaint: Discussion attack answer.
+
+Vitals:
+  Blood Pressure: 126/65
+  Heart Rate: 81 bpm
+  Temperature: 98.1°F
+  Respiratory Rate: 20 breaths/min
+  Weight: 147 lbs
+  Height: 70 inches
+
+Assessment: Type 2 Diabetes
+Medications: Metoprolol 25mg
+Plan: Less especially able bed call safe. Sister popular specific no wind.
+--------------------------------------------------
+
+Visit Date: 2024-07-07
+Chief Complaint: Sound job source recognize wrong.
+
+Vitals:
+  Blood Pressure: 133/67
+  Heart Rate: 80 bpm
+  Temperature: 97.4°F
+  Respiratory Rate: 20 breaths/min
+  Weight: 170 lbs
+  Height: 63 inches
+
+Assessment: Asthma
+Medications: Metoprolol 25mg, Amlodipine 5mg, Lisinopril 10mg, Omeprazole 20mg
+Plan: Authority international exactly certainly analysis civil. Conference book since investment state.
+--------------------------------------------------

@@ -1,0 +1,147 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000004
+Name: Ellen Brown
+DOB: 1958-09-04
+Gender: Male
+
+Contact Information:
+Phone: +1-769-963-9232
+Email: rbishop@example.com
+Address: 9176 Emily Meadows Suite 560
+Thomasmouth, NJ 79510
+
+Insurance: Wilson Group
+Allergies: Aspirin
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Report ball.
+
+Vitals:
+  Blood Pressure: 131/74
+  Heart Rate: 92 bpm
+  Temperature: 97.6°F
+  Respiratory Rate: 15 breaths/min
+  Weight: 144 lbs
+  Height: 64 inches
+
+Assessment: Migraine, Anxiety, Arthritis
+Medications: Lisinopril 10mg, Gabapentin 300mg, Atorvastatin 40mg, Levothyroxine 75mcg
+Plan: Pay rather road rise dark large. Out cause those goal stop whole.
+--------------------------------------------------
+
+Visit Date: 2024-07-29
+Chief Complaint: Instead we.
+
+Vitals:
+  Blood Pressure: 128/64
+  Heart Rate: 72 bpm
+  Temperature: 99.1°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 176 lbs
+  Height: 68 inches
+
+Assessment: Arthritis, Hypothyroidism
+Medications: Albuterol inhaler, Levothyroxine 75mcg
+Plan: Model staff result loss skill sell. Body consumer now worry technology.
+--------------------------------------------------
+
+Visit Date: 2024-06-13
+Chief Complaint: Total top field.
+
+Vitals:
+  Blood Pressure: 123/87
+  Heart Rate: 92 bpm
+  Temperature: 98.3°F
+  Respiratory Rate: 15 breaths/min
+  Weight: 182 lbs
+  Height: 72 inches
+
+Assessment: Asthma, GERD, Type 2 Diabetes
+Medications: Atorvastatin 40mg
+Plan: Together although if put especially most song.
+--------------------------------------------------
+
+Visit Date: 2024-03-17
+Chief Complaint: Exactly business product.
+
+Vitals:
+  Blood Pressure: 135/81
+  Heart Rate: 75 bpm
+  Temperature: 99.1°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 127 lbs
+  Height: 63 inches
+
+Assessment: Hypothyroidism
+Medications: Lisinopril 10mg, Atorvastatin 40mg
+Plan: None mouth full drive.
+--------------------------------------------------
+
+Visit Date: 2023-10-05
+Chief Complaint: Both cell performance.
+
+Vitals:
+  Blood Pressure: 133/71
+  Heart Rate: 100 bpm
+  Temperature: 97.1°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 161 lbs
+  Height: 75 inches
+
+Assessment: Hypothyroidism, Arthritis
+Medications: Metformin 500mg
+Plan: Black wonder left only particularly make we. Grow partner better help amount second will.
+--------------------------------------------------
+
+Visit Date: 2023-06-29
+Chief Complaint: Others sure issue.
+
+Vitals:
+  Blood Pressure: 133/74
+  Heart Rate: 60 bpm
+  Temperature: 98.5°F
+  Respiratory Rate: 14 breaths/min
+  Weight: 166 lbs
+  Height: 74 inches
+
+Assessment: Migraine, Depression
+Medications: Metformin 500mg
+Plan: Add factor need church level none think such. Ready born agency expert guess.
+--------------------------------------------------
+
+Visit Date: 2023-02-23
+Chief Complaint: Describe money involve.
+
+Vitals:
+  Blood Pressure: 132/87
+  Heart Rate: 66 bpm
+  Temperature: 99.1°F
+  Respiratory Rate: 15 breaths/min
+  Weight: 137 lbs
+  Height: 75 inches
+
+Assessment: Hypertension, Hypothyroidism
+Medications: Amlodipine 5mg, Levothyroxine 75mcg, Metoprolol 25mg, Omeprazole 20mg
+Plan: Professional staff our weight air. Second live item almost wrong week.
+--------------------------------------------------
+
+Visit Date: 2022-09-17
+Chief Complaint: Increase decide pay least.
+
+Vitals:
+  Blood Pressure: 125/81
+  Heart Rate: 92 bpm
+  Temperature: 97.3°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 172 lbs
+  Height: 75 inches
+
+Assessment: Migraine, Asthma, Arthritis
+Medications: Lisinopril 10mg, Atorvastatin 40mg, Metformin 500mg
+Plan: Open role listen hand.
+--------------------------------------------------

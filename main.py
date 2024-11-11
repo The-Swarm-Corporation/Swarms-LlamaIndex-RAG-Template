@@ -1,4 +1,4 @@
-from llama_index_rag.agent import healthcare_summarizer
+from llamaindex_rag.agent import healthcare_summarizer
 
 # Example usage
 print(

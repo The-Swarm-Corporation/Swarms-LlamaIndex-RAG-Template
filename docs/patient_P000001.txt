@@ -1,0 +1,99 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000001
+Name: Vernon Williams
+DOB: 1999-03-06
+Gender: Female
+
+Contact Information:
+Phone: 359.982.2900x9788
+Email: bjohnson@example.com
+Address: 22997 Christopher Pike Suite 412
+Lake Jessica, RI 72264
+
+Insurance: Bennett-Lopez
+Allergies: None
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Would relate various ever.
+
+Vitals:
+  Blood Pressure: 127/87
+  Heart Rate: 83 bpm
+  Temperature: 98.9°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 149 lbs
+  Height: 74 inches
+
+Assessment: Migraine, Asthma, Arthritis
+Medications: Sertraline 50mg, Lisinopril 10mg, Omeprazole 20mg
+Plan: Change stop society blue her investment.
+--------------------------------------------------
+
+Visit Date: 2024-10-11
+Chief Complaint: Lead site market even.
+
+Vitals:
+  Blood Pressure: 140/79
+  Heart Rate: 93 bpm
+  Temperature: 98.0°F
+  Respiratory Rate: 14 breaths/min
+  Weight: 179 lbs
+  Height: 61 inches
+
+Assessment: Asthma, Depression
+Medications: Metoprolol 25mg, Sertraline 50mg, Omeprazole 20mg
+Plan: Herself particularly network dream produce. Tv employee task policy.
+--------------------------------------------------
+
+Visit Date: 2024-07-15
+Chief Complaint: They left stage.
+
+Vitals:
+  Blood Pressure: 131/64
+  Heart Rate: 87 bpm
+  Temperature: 98.7°F
+  Respiratory Rate: 20 breaths/min
+  Weight: 195 lbs
+  Height: 68 inches
+
+Assessment: Arthritis, Depression, Anxiety
+Medications: Lisinopril 10mg, Metformin 500mg
+Plan: Interest fact record artist small score. Around second sport discussion know now page.
+--------------------------------------------------
+
+Visit Date: 2024-02-20
+Chief Complaint: Tv order lawyer manage.
+
+Vitals:
+  Blood Pressure: 127/78
+  Heart Rate: 67 bpm
+  Temperature: 98.2°F
+  Respiratory Rate: 12 breaths/min
+  Weight: 138 lbs
+  Height: 63 inches
+
+Assessment: Anxiety, Hyperlipidemia, Depression
+Medications: Lisinopril 10mg
+Plan: Society close little east. Bit realize building goal.
+--------------------------------------------------
+
+Visit Date: 2023-10-20
+Chief Complaint: Help start bad.
+
+Vitals:
+  Blood Pressure: 134/68
+  Heart Rate: 79 bpm
+  Temperature: 97.9°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 160 lbs
+  Height: 69 inches
+
+Assessment: Migraine
+Medications: Gabapentin 300mg, Omeprazole 20mg, Albuterol inhaler
+Plan: Social gun appear method. Message design wear.
+--------------------------------------------------

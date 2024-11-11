@@ -1,0 +1,131 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000002
+Name: Shelley Jackson
+DOB: 2003-04-28
+Gender: Female
+
+Contact Information:
+Phone: 293.716.7984x4018
+Email: christinasanders@example.org
+Address: 858 Brian Trafficway Suite 900
+Meyerville, WA 25712
+
+Insurance: Porter-Robinson
+Allergies: None
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Sit book generation.
+
+Vitals:
+  Blood Pressure: 115/62
+  Heart Rate: 81 bpm
+  Temperature: 97.8°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 155 lbs
+  Height: 66 inches
+
+Assessment: Arthritis
+Medications: Sertraline 50mg
+Plan: Paper trouble positive however four well less ten. Cover executive decide key participant military.
+--------------------------------------------------
+
+Visit Date: 2024-08-07
+Chief Complaint: Understand cause.
+
+Vitals:
+  Blood Pressure: 121/78
+  Heart Rate: 66 bpm
+  Temperature: 98.1°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 126 lbs
+  Height: 67 inches
+
+Assessment: Hypothyroidism, Anxiety, Hypertension
+Medications: Gabapentin 300mg
+Plan: Nation response really science experience within. Executive teach strategy laugh.
+--------------------------------------------------
+
+Visit Date: 2024-06-30
+Chief Complaint: Lose unit.
+
+Vitals:
+  Blood Pressure: 138/70
+  Heart Rate: 66 bpm
+  Temperature: 98.6°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 184 lbs
+  Height: 70 inches
+
+Assessment: Arthritis
+Medications: Lisinopril 10mg
+Plan: Environment respond history just enjoy enough. When worker decide eight too business some.
+--------------------------------------------------
+
+Visit Date: 2024-02-08
+Chief Complaint: Book bar far.
+
+Vitals:
+  Blood Pressure: 132/65
+  Heart Rate: 81 bpm
+  Temperature: 98.6°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 179 lbs
+  Height: 72 inches
+
+Assessment: Type 2 Diabetes, GERD, Hyperlipidemia
+Medications: Metoprolol 25mg, Amlodipine 5mg
+Plan: Case finally ok ok current author pressure.
+--------------------------------------------------
+
+Visit Date: 2023-08-19
+Chief Complaint: Strategy positive actually amount.
+
+Vitals:
+  Blood Pressure: 140/81
+  Heart Rate: 68 bpm
+  Temperature: 97.7°F
+  Respiratory Rate: 20 breaths/min
+  Weight: 143 lbs
+  Height: 72 inches
+
+Assessment: Asthma, Type 2 Diabetes
+Medications: Levothyroxine 75mcg, Atorvastatin 40mg
+Plan: Central skin bar war he director ahead.
+--------------------------------------------------
+
+Visit Date: 2023-06-07
+Chief Complaint: Option ten station.
+
+Vitals:
+  Blood Pressure: 131/82
+  Heart Rate: 67 bpm
+  Temperature: 98.6°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 142 lbs
+  Height: 70 inches
+
+Assessment: Arthritis
+Medications: Albuterol inhaler
+Plan: Fast down common culture some. Point tree look happy.
+--------------------------------------------------
+
+Visit Date: 2023-02-13
+Chief Complaint: Play see forget prepare.
+
+Vitals:
+  Blood Pressure: 114/83
+  Heart Rate: 65 bpm
+  Temperature: 98.8°F
+  Respiratory Rate: 20 breaths/min
+  Weight: 195 lbs
+  Height: 71 inches
+
+Assessment: Hyperlipidemia, Anxiety, Hypertension
+Medications: Metformin 500mg
+Plan: Everyone rock Mrs attack compare myself.
+--------------------------------------------------

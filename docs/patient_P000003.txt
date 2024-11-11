@@ -1,0 +1,131 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000003
+Name: Steven Schultz
+DOB: 1937-06-15
+Gender: Female
+
+Contact Information:
+Phone: 001-679-301-3863x66559
+Email: kelly13@example.com
+Address: 08145 Sherman Ridge Suite 178
+Turnerchester, MN 97832
+
+Insurance: Orozco, Shannon and Ford
+Allergies: None
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Ever street popular.
+
+Vitals:
+  Blood Pressure: 129/82
+  Heart Rate: 90 bpm
+  Temperature: 97.4°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 145 lbs
+  Height: 62 inches
+
+Assessment: Anxiety, Arthritis, Hypothyroidism
+Medications: Sertraline 50mg, Metoprolol 25mg, Lisinopril 10mg, Metformin 500mg
+Plan: Different surface agreement quality toward avoid.
+--------------------------------------------------
+
+Visit Date: 2024-06-24
+Chief Complaint: Occur not.
+
+Vitals:
+  Blood Pressure: 124/86
+  Heart Rate: 79 bpm
+  Temperature: 97.1°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 203 lbs
+  Height: 69 inches
+
+Assessment: Asthma, Hypertension, Migraine
+Medications: Atorvastatin 40mg
+Plan: Special list picture child light ground.
+--------------------------------------------------
+
+Visit Date: 2024-03-04
+Chief Complaint: Address generation owner how.
+
+Vitals:
+  Blood Pressure: 135/67
+  Heart Rate: 99 bpm
+  Temperature: 97.1°F
+  Respiratory Rate: 19 breaths/min
+  Weight: 166 lbs
+  Height: 71 inches
+
+Assessment: Asthma, Hypothyroidism, Migraine
+Medications: Omeprazole 20mg, Levothyroxine 75mcg
+Plan: Thousand again run his moment same.
+--------------------------------------------------
+
+Visit Date: 2023-12-15
+Chief Complaint: Mother truth.
+
+Vitals:
+  Blood Pressure: 131/74
+  Heart Rate: 70 bpm
+  Temperature: 99.4°F
+  Respiratory Rate: 12 breaths/min
+  Weight: 128 lbs
+  Height: 74 inches
+
+Assessment: Hyperlipidemia, Arthritis, Anxiety
+Medications: Metoprolol 25mg, Gabapentin 300mg, Omeprazole 20mg
+Plan: Subject draw third force. Suddenly sport see seat total special mind strategy.
+--------------------------------------------------
+
+Visit Date: 2023-07-28
+Chief Complaint: Product town difficult.
+
+Vitals:
+  Blood Pressure: 114/61
+  Heart Rate: 61 bpm
+  Temperature: 98.6°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 210 lbs
+  Height: 66 inches
+
+Assessment: Depression, Type 2 Diabetes, Asthma
+Medications: Metformin 500mg, Atorvastatin 40mg
+Plan: Myself ask behind necessary southern. Capital maybe what specific.
+--------------------------------------------------
+
+Visit Date: 2023-05-02
+Chief Complaint: Democrat name protect national common.
+
+Vitals:
+  Blood Pressure: 137/84
+  Heart Rate: 77 bpm
+  Temperature: 98.5°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 207 lbs
+  Height: 68 inches
+
+Assessment: Depression, Migraine, Anxiety
+Medications: Sertraline 50mg, Lisinopril 10mg, Levothyroxine 75mcg, Gabapentin 300mg
+Plan: Job require perhaps possible actually. Job picture property.
+--------------------------------------------------
+
+Visit Date: 2023-03-06
+Chief Complaint: Responsibility idea forward wish.
+
+Vitals:
+  Blood Pressure: 114/63
+  Heart Rate: 100 bpm
+  Temperature: 98.7°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 134 lbs
+  Height: 66 inches
+
+Assessment: Anxiety, Type 2 Diabetes, Arthritis
+Medications: Gabapentin 300mg, Amlodipine 5mg, Omeprazole 20mg, Sertraline 50mg
+Plan: Woman candidate discussion economy close appear make. Response add rise.
+--------------------------------------------------

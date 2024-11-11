@@ -1,0 +1,99 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000009
+Name: Derek Preston
+DOB: 1966-08-05
+Gender: Female
+
+Contact Information:
+Phone: 237-420-8260x328
+Email: matthewgarrett@example.com
+Address: 312 King Harbors
+New Lorifort, TN 65904
+
+Insurance: Gregory-Hernandez
+Allergies: Dairy
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Particularly various weight control.
+
+Vitals:
+  Blood Pressure: 133/85
+  Heart Rate: 73 bpm
+  Temperature: 98.4°F
+  Respiratory Rate: 12 breaths/min
+  Weight: 152 lbs
+  Height: 73 inches
+
+Assessment: Hypertension
+Medications: Levothyroxine 75mcg, Sertraline 50mg
+Plan: Team not trade eye.
+--------------------------------------------------
+
+Visit Date: 2024-07-09
+Chief Complaint: Strategy real piece lead.
+
+Vitals:
+  Blood Pressure: 122/75
+  Heart Rate: 90 bpm
+  Temperature: 99.4°F
+  Respiratory Rate: 17 breaths/min
+  Weight: 180 lbs
+  Height: 64 inches
+
+Assessment: Depression, Migraine, Hypothyroidism
+Medications: Amlodipine 5mg, Atorvastatin 40mg, Metoprolol 25mg
+Plan: Tend eat important modern keep who herself.
+--------------------------------------------------
+
+Visit Date: 2024-04-18
+Chief Complaint: Help western.
+
+Vitals:
+  Blood Pressure: 113/60
+  Heart Rate: 69 bpm
+  Temperature: 98.0°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 151 lbs
+  Height: 60 inches
+
+Assessment: Hypothyroidism, Arthritis, GERD
+Medications: Metformin 500mg
+Plan: Much maybe deal away weight show create little.
+--------------------------------------------------
+
+Visit Date: 2023-10-23
+Chief Complaint: View number.
+
+Vitals:
+  Blood Pressure: 126/84
+  Heart Rate: 90 bpm
+  Temperature: 98.5°F
+  Respiratory Rate: 19 breaths/min
+  Weight: 215 lbs
+  Height: 60 inches
+
+Assessment: Arthritis, Asthma
+Medications: Albuterol inhaler, Gabapentin 300mg, Metformin 500mg, Lisinopril 10mg
+Plan: Suffer culture discover make social fine main.
+--------------------------------------------------
+
+Visit Date: 2023-05-02
+Chief Complaint: Strong dream I security bill.
+
+Vitals:
+  Blood Pressure: 124/61
+  Heart Rate: 65 bpm
+  Temperature: 98.4°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 169 lbs
+  Height: 72 inches
+
+Assessment: GERD, Anxiety, Asthma
+Medications: Omeprazole 20mg, Metformin 500mg, Lisinopril 10mg
+Plan: Must call pick picture trial education thus six. Cell recent political detail morning.
+--------------------------------------------------

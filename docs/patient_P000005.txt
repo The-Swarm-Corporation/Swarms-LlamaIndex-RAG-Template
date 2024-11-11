@@ -1,0 +1,99 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000005
+Name: Bailey Johnson
+DOB: 1945-11-12
+Gender: Female
+
+Contact Information:
+Phone: (471)421-2235x8069
+Email: mwall@example.net
+Address: 22727 Ian Center Suite 893
+Andersonside, KY 47733
+
+Insurance: Powell PLC
+Allergies: Shellfish, Peanuts, None
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Move daughter officer ok.
+
+Vitals:
+  Blood Pressure: 119/82
+  Heart Rate: 63 bpm
+  Temperature: 97.0°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 155 lbs
+  Height: 72 inches
+
+Assessment: Migraine, Anxiety, Arthritis
+Medications: Amlodipine 5mg
+Plan: Key laugh group certainly quite training.
+--------------------------------------------------
+
+Visit Date: 2024-07-22
+Chief Complaint: Production personal phone commercial.
+
+Vitals:
+  Blood Pressure: 129/83
+  Heart Rate: 73 bpm
+  Temperature: 97.7°F
+  Respiratory Rate: 19 breaths/min
+  Weight: 141 lbs
+  Height: 70 inches
+
+Assessment: Anxiety, Hypertension
+Medications: Metoprolol 25mg, Levothyroxine 75mcg, Albuterol inhaler, Metformin 500mg
+Plan: Team daughter various like idea character.
+--------------------------------------------------
+
+Visit Date: 2024-05-15
+Chief Complaint: Stock life scientist.
+
+Vitals:
+  Blood Pressure: 110/66
+  Heart Rate: 69 bpm
+  Temperature: 99.2°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 215 lbs
+  Height: 64 inches
+
+Assessment: Type 2 Diabetes
+Medications: Gabapentin 300mg, Metoprolol 25mg
+Plan: Pm near partner kid. Capital develop information partner technology teacher traditional.
+--------------------------------------------------
+
+Visit Date: 2024-01-14
+Chief Complaint: Organization room.
+
+Vitals:
+  Blood Pressure: 110/84
+  Heart Rate: 72 bpm
+  Temperature: 97.6°F
+  Respiratory Rate: 13 breaths/min
+  Weight: 201 lbs
+  Height: 60 inches
+
+Assessment: Arthritis, Asthma
+Medications: Sertraline 50mg
+Plan: Respond his truth whom information at no. Everybody fire television purpose entire commercial.
+--------------------------------------------------
+
+Visit Date: 2023-09-30
+Chief Complaint: Happen paper available.
+
+Vitals:
+  Blood Pressure: 138/83
+  Heart Rate: 94 bpm
+  Temperature: 99.3°F
+  Respiratory Rate: 15 breaths/min
+  Weight: 189 lbs
+  Height: 72 inches
+
+Assessment: Depression
+Medications: Metformin 500mg
+Plan: Have our kid idea focus. Past piece down everyone by religious beautiful.
+--------------------------------------------------

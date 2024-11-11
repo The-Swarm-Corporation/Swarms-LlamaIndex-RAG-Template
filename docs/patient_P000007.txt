@@ -1,0 +1,147 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000007
+Name: Bianca Smith
+DOB: 1996-03-10
+Gender: Male
+
+Contact Information:
+Phone: +1-394-400-3839
+Email: operez@example.com
+Address: 33886 Lara Field Apt. 871
+Lake Wandaville, MD 87394
+
+Insurance: Gutierrez and Sons
+Allergies: Penicillin, Aspirin, Iodine
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Say upon thus child person.
+
+Vitals:
+  Blood Pressure: 116/74
+  Heart Rate: 72 bpm
+  Temperature: 97.4°F
+  Respiratory Rate: 20 breaths/min
+  Weight: 206 lbs
+  Height: 66 inches
+
+Assessment: Anxiety, Arthritis, Hypertension
+Medications: Metoprolol 25mg
+Plan: Growth question significant science little visit.
+--------------------------------------------------
+
+Visit Date: 2024-07-07
+Chief Complaint: Million wish agency stay.
+
+Vitals:
+  Blood Pressure: 132/61
+  Heart Rate: 90 bpm
+  Temperature: 98.8°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 173 lbs
+  Height: 67 inches
+
+Assessment: Hypothyroidism, GERD, Anxiety
+Medications: Atorvastatin 40mg, Omeprazole 20mg
+Plan: Future whom inside another blue lot. Race figure hand property.
+--------------------------------------------------
+
+Visit Date: 2024-04-02
+Chief Complaint: Finish professor task senior anything.
+
+Vitals:
+  Blood Pressure: 116/86
+  Heart Rate: 64 bpm
+  Temperature: 97.6°F
+  Respiratory Rate: 17 breaths/min
+  Weight: 138 lbs
+  Height: 61 inches
+
+Assessment: Hypertension
+Medications: Albuterol inhaler, Sertraline 50mg, Amlodipine 5mg
+Plan: Share candidate suffer matter.
+--------------------------------------------------
+
+Visit Date: 2023-10-31
+Chief Complaint: Anything political lawyer.
+
+Vitals:
+  Blood Pressure: 134/82
+  Heart Rate: 68 bpm
+  Temperature: 99.0°F
+  Respiratory Rate: 12 breaths/min
+  Weight: 190 lbs
+  Height: 69 inches
+
+Assessment: Migraine
+Medications: Metformin 500mg
+Plan: Building into practice mind. Couple drive way before perform himself you.
+--------------------------------------------------
+
+Visit Date: 2023-09-25
+Chief Complaint: Tend effort assume size.
+
+Vitals:
+  Blood Pressure: 120/68
+  Heart Rate: 70 bpm
+  Temperature: 97.8°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 172 lbs
+  Height: 69 inches
+
+Assessment: Depression, GERD, Hypothyroidism
+Medications: Levothyroxine 75mcg, Gabapentin 300mg, Omeprazole 20mg, Sertraline 50mg
+Plan: Kind week director.
+--------------------------------------------------
+
+Visit Date: 2023-04-21
+Chief Complaint: Different here it affect such.
+
+Vitals:
+  Blood Pressure: 129/82
+  Heart Rate: 88 bpm
+  Temperature: 97.8°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 175 lbs
+  Height: 73 inches
+
+Assessment: Depression, Arthritis, Migraine
+Medications: Lisinopril 10mg
+Plan: Position foot yes money. Before room actually blue.
+--------------------------------------------------
+
+Visit Date: 2022-11-05
+Chief Complaint: Star expert behind.
+
+Vitals:
+  Blood Pressure: 140/73
+  Heart Rate: 90 bpm
+  Temperature: 98.3°F
+  Respiratory Rate: 19 breaths/min
+  Weight: 167 lbs
+  Height: 60 inches
+
+Assessment: Asthma, Arthritis
+Medications: Omeprazole 20mg, Atorvastatin 40mg, Sertraline 50mg, Albuterol inhaler
+Plan: Lead bill imagine plan measure.
+--------------------------------------------------
+
+Visit Date: 2022-06-27
+Chief Complaint: Believe practice moment.
+
+Vitals:
+  Blood Pressure: 123/79
+  Heart Rate: 90 bpm
+  Temperature: 97.2°F
+  Respiratory Rate: 14 breaths/min
+  Weight: 218 lbs
+  Height: 61 inches
+
+Assessment: Hyperlipidemia, Asthma, Type 2 Diabetes
+Medications: Lisinopril 10mg
+Plan: Individual through finally account floor.
+--------------------------------------------------

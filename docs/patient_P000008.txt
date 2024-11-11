@@ -1,0 +1,147 @@
+PATIENT MEDICAL RECORD
+==================================================
+
+Patient ID: P000008
+Name: Robin Thomas
+DOB: 1976-12-17
+Gender: Female
+
+Contact Information:
+Phone: 950.887.5134x94871
+Email: emily30@example.net
+Address: PSC 4526, Box 8768
+APO AE 57542
+
+Insurance: Foster-Rogers
+Allergies: Shellfish, Iodine
+
+MEDICAL HISTORY
+--------------------------------------------------
+
+Visit Date: 2024-11-11
+Chief Complaint: Value your.
+
+Vitals:
+  Blood Pressure: 130/63
+  Heart Rate: 97 bpm
+  Temperature: 98.4°F
+  Respiratory Rate: 12 breaths/min
+  Weight: 184 lbs
+  Height: 72 inches
+
+Assessment: Hypothyroidism, GERD, Hyperlipidemia
+Medications: Omeprazole 20mg
+Plan: Medical anyone visit surface according race movement.
+--------------------------------------------------
+
+Visit Date: 2024-06-28
+Chief Complaint: Drop recently region stage.
+
+Vitals:
+  Blood Pressure: 118/83
+  Heart Rate: 99 bpm
+  Temperature: 99.1°F
+  Respiratory Rate: 16 breaths/min
+  Weight: 130 lbs
+  Height: 66 inches
+
+Assessment: Anxiety, Type 2 Diabetes
+Medications: Omeprazole 20mg, Lisinopril 10mg, Albuterol inhaler, Atorvastatin 40mg
+Plan: Trouble affect sound high perform total play.
+--------------------------------------------------
+
+Visit Date: 2024-02-03
+Chief Complaint: Structure institution.
+
+Vitals:
+  Blood Pressure: 133/61
+  Heart Rate: 70 bpm
+  Temperature: 98.1°F
+  Respiratory Rate: 12 breaths/min
+  Weight: 205 lbs
+  Height: 73 inches
+
+Assessment: Anxiety, Asthma, Hypertension
+Medications: Omeprazole 20mg
+Plan: Whether strong paper despite word material travel. Think clear these key physical medical stuff college.
+--------------------------------------------------
+
+Visit Date: 2023-11-04
+Chief Complaint: Personal wonder trial manage image.
+
+Vitals:
+  Blood Pressure: 111/83
+  Heart Rate: 61 bpm
+  Temperature: 98.8°F
+  Respiratory Rate: 15 breaths/min
+  Weight: 197 lbs
+  Height: 61 inches
+
+Assessment: Migraine
+Medications: Amlodipine 5mg, Albuterol inhaler, Omeprazole 20mg, Gabapentin 300mg
+Plan: Baby share news capital activity certainly see. Herself approach himself shoulder over network task.
+--------------------------------------------------
+
+Visit Date: 2023-06-05
+Chief Complaint: Same expect place.
+
+Vitals:
+  Blood Pressure: 113/83
+  Heart Rate: 60 bpm
+  Temperature: 97.8°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 138 lbs
+  Height: 67 inches
+
+Assessment: Depression, Hypothyroidism
+Medications: Sertraline 50mg, Lisinopril 10mg, Metoprolol 25mg, Amlodipine 5mg
+Plan: Land purpose step property it own fish.
+--------------------------------------------------
+
+Visit Date: 2023-01-04
+Chief Complaint: Stop blood raise.
+
+Vitals:
+  Blood Pressure: 124/79
+  Heart Rate: 69 bpm
+  Temperature: 98.1°F
+  Respiratory Rate: 12 breaths/min
+  Weight: 183 lbs
+  Height: 65 inches
+
+Assessment: Anxiety
+Medications: Sertraline 50mg
+Plan: Or expert great Mrs.
+--------------------------------------------------
+
+Visit Date: 2022-07-11
+Chief Complaint: Daughter tell remain important.
+
+Vitals:
+  Blood Pressure: 128/68
+  Heart Rate: 80 bpm
+  Temperature: 99.0°F
+  Respiratory Rate: 14 breaths/min
+  Weight: 206 lbs
+  Height: 73 inches
+
+Assessment: Hypothyroidism
+Medications: Omeprazole 20mg
+Plan: Article full enough sea budget practice would. Mind wall face federal feel watch.
+--------------------------------------------------
+
+Visit Date: 2022-03-05
+Chief Complaint: Organization force knowledge.
+
+Vitals:
+  Blood Pressure: 125/68
+  Heart Rate: 67 bpm
+  Temperature: 99.4°F
+  Respiratory Rate: 18 breaths/min
+  Weight: 187 lbs
+  Height: 68 inches
+
+Assessment: Hypertension, Asthma, Depression
+Medications: Lisinopril 10mg, Metformin 500mg, Atorvastatin 40mg, Amlodipine 5mg
+Plan: Executive set economic street along yard play.
+--------------------------------------------------

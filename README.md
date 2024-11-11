@@ -56,9 +56,13 @@ python main.py
 
 
 ## Memory Example
+- LlamaIndexDB is a class that allows you to query a vector database of documents.
+- Add your documents to the `docs` folder or use the fake data generator to populate the database.
+- The `data_dir` argument is the directory containing your documents.
+- `similarity_top_k` is the number of similar documents to retrieve, it can make the response more relevant and longer.
 
 ```python
-from llama_index_rag.memory import LlamaIndexDB
+from llamaindex_rag.memory import LlamaIndexDB
 
 # Example usage
 llama_index_db = LlamaIndexDB(
@@ -66,14 +70,15 @@ llama_index_db = LlamaIndexDB(
     filename_as_id=True,
     recursive=True,
     required_exts=[".txt", ".pdf", ".docx"],
-    similarity_top_k=3
+    similarity_top_k=10
 )
-response = llama_index_db.query(
+
+llama_index_db.query(
     "What is the medical history of patient 1?",
     streaming=True,
     response_mode="compact"
 )
-print(response)
+
 
 ``` 
 
